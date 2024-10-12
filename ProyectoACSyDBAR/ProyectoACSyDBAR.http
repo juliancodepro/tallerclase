@@ -1,0 +1,6 @@
+@ProyectoACSyDBAR_HostAddress = http://localhost:5108
+
+GET {{ProyectoACSyDBAR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
